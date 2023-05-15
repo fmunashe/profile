@@ -1,0 +1,56 @@
+table,
+th,
+td {
+    border: 1px solid #009688;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
+
+.table {
+    overflow-x: auto;
+}
+
+td,
+th {
+    vertical-align: top;
+}
+
+td {
+    min-width: 150px;
+}
+
+ol {
+    list-style-position: inside;
+    margin-left: -10px !important;
+}
+
+li {
+    padding: 5px;
+    margin: 2px;
+    margin-left: -20px;
+    background-color: #009688;
+    border-radius: 20px;
+    color: white;
+    vertical-align: top;
+    white-space: nowrap;
+}
+
+ol {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 25px;
+}
+
+.name{
+    color:white;
+    background-color: #009688;
+    padding:0 auto;
+
+    margin:0 auto;
+     margin-left: -16px;
+   /* margin-right: 0;
+    margin-bottom: 0; */
+}
