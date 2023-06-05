@@ -68,3 +68,7 @@ li a{
     vertical-align: top;
     white-space: nowrap;  
 }
+
+#footer{
+    margin: auto 12.5%;
+}
