@@ -54,3 +54,16 @@ ol {
    /* margin-right: 0;
     margin-bottom: 0; */
 }
+
+li a{
+    text-decoration: none;
+}
+#link{
+    text-decoration: none;
+    padding: 3px;
+    background-color: #009688;
+    border-radius: 20px;
+    color: white;
+    vertical-align: top;
+    white-space: nowrap;  
+}
