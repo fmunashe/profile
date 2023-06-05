@@ -28,6 +28,7 @@ ol {
 }
 
 li {
+    text-decoration: none;
     padding: 5px;
     margin: 2px;
     margin-left: -20px;
